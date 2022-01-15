@@ -1,0 +1,16 @@
+body {
+    background-color: #04a6eb;/*←背景色*/
+    color: #fdffff;/*←文字色*/
+    width: 500px;/*←横幅*/
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 5px 20px;
+    background-color: #337ab7;
+    color: #fdffff;
+    border-style: none;
+}
+input {
+    height: 25px;
+}
